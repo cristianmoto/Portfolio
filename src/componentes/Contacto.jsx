@@ -6,7 +6,7 @@ import cv from '../assets/ResumeActual.pdf'
 
 export const Contacto = () => {
   return (
-    <div className=" justify-between h-[150px] content-bottom cursor-pointer  container mx-auto border-t-2 py-6  align-bottom  flex-none sm:flex">
+    <div className=" justify-between h-[150px] content-bottom cursor-pointer px-4  container mx-auto border-t-2 py-6  align-bottom  flex-none sm:flex sm:px-1">
       
     <a className="text-white font-mono   text-lg  text-opacity-45 hover:text-slate-50 sm:text-2xl   " href="https://www.linkedin.com/in/cristian-e-aguirre/?originalSubdomain=ar" target='_blank'>  <img  className= "w-10 text-white "  src={linkedin} alt="Linkedin"/>LinkedIn/cristian-e-aguirre</a>
 
