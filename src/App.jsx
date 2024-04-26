@@ -16,7 +16,7 @@ function App() {
   return (
     <> 
      <BrowserRouter>
-      <div className="container mx-auto my-6 flex justify-between gap-5">
+      <div className="container mx-auto w-auto px-2  my-5 flex-none  gap-5 sm:w-auto sm:flex sm:px-0 sm:justify-between">
         <Header/>
         <NavBar/>
       </div>

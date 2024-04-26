@@ -6,7 +6,7 @@ import mundoca from '../assets/imgPort/Mundoca.png'
 import { Projects } from "./Projects";
 const ProjectContainer = () => {
   return (
-    <section className="flex container mx-auto">
+    <section className="flex-none container mx-auto sm:flex">
       <Projects 
       imagen={mundoca} 
       titulo='Mundo Cafe' 
