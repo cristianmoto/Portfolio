@@ -12,7 +12,7 @@ export const Skills = () => {
   return (
     <section className=" container mx-auto my-10 text-center grid-cols-2  py-[60px] sm:my-40">
      <h2 className="text-7xl text-stone-100 font-mono hover:text-pink-800 py-4">Skills</h2> 
-    <h2  className="text-xl text-stone-100 text-opacity-40 italic pb-5  hover:text-pink-500 sm:text-3xl"> A lo largo de mi formacion como Frontend, aprendi habilidades muy utiles para la creación de Aplicacions Webs creativas y vistozas, las cuales me ayudan a crear proyectos profesionales. </h2>
+    <h2  className="text-xl text-stone-100 text-opacity-40 italic pb-5  hover:text-pink-500 sm:text-3xl">A lo largo de mi formación como Frontend, aprendí habilidades muy útiles para la creación de Aplicaciones Webs creativas y vistosas, las cuales me ayudan a crear proyectos profesionales. </h2>
    
      <div className=" h-[120px] py-4 px-auto justify-between grid grid-cols-4 gap-4 sm:flex">
        
